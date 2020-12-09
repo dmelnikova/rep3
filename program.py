@@ -1,2 +1,1 @@
-print("My first Git program")
-swd
+print("My first Git program!!!")
